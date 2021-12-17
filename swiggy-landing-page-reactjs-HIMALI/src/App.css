@@ -1,0 +1,12 @@
+.body{
+    font-family: 'Montserrat', sans-serif;
+}
+footer
+{
+    font-size: medium;
+    font-family:'sans-serif';
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 90vh;
+    size: 7em;
+}
